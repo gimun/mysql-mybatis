@@ -1,10 +1,7 @@
 # mybatis
-Mybatis + MySQL
+Boot2(Gradle) + MySQL + Mybatis
 
 Java 8
-
-Srping Boot 2
-
 
 Persistence Framework : Mybatis (SQL Mapper 방식)
 
