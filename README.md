@@ -1,5 +1,4 @@
-# mybatis
-Boot2(Gradle) + MySQL + Mybatis
+# Boot2(Gradle) + MySQL + Mybatis
 
 Java 8
 
